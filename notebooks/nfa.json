@@ -59,7 +59,7 @@
     },
     "S10": {
         "isTerminatingState": false,
-        "b": "S11"
+        "[a-b]": "S11"
     },
     "S11": {
         "isTerminatingState": true
