@@ -6,7 +6,7 @@
     },
     "S1": {
         "isTerminatingState": false,
-        "EPSILON": [
+        "eplison": [
             "S2"
         ]
     },
@@ -16,7 +16,7 @@
     },
     "S3": {
         "isTerminatingState": false,
-        "EPSILON": [
+        "eplison": [
             "S4"
         ]
     },
